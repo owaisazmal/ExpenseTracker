@@ -1,6 +1,24 @@
 {
-  "originHash" : "7d5c38efc58a092ea3c5fbace30be1c179a5a1ddc4cf3822916e6f1150785dcd",
+  "originHash" : "0f332dd6fce7d8c506cb0defa39ae58f151c8d6ffe30dd3f56b98351a7800b34",
   "pins" : [
+    {
+      "identity" : "chartview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppPear/ChartView",
+      "state" : {
+        "revision" : "caa75ecbc0d68f2b50d714909566406f80214186",
+        "version" : "2.0.0-beta.2"
+      }
+    },
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-collections.git",
+      "state" : {
+        "revision" : "3d2dc41a01f9e49d84f0a3925fb858bed64f702d",
+        "version" : "1.1.2"
+      }
+    },
     {
       "identity" : "swiftuifonticon",
       "kind" : "remoteSourceControl",
