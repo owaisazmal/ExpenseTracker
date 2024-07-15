@@ -14,6 +14,9 @@ ExpenseTracker is a mobile application built using SwiftUI and SwiftUICharts. Th
 
 ## Screenshots
 
-  ![Screenshot 2024-07-15 at 3 52 01 PM](https://github.com/user-attachments/assets/9bdc0a90-4d5b-4c23-aeb9-52dd36254f07)
+![Screenshot 2024-07-15 at 3 52 01 PM](https://github.com/user-attachments/assets/9bdc0a90-4d5b-4c23-aeb9-52dd36254f07)
 
+## Sample Recording
+
+https://github.com/user-attachments/assets/1b44bffe-04ef-42da-be7c-395439acf90a
 
