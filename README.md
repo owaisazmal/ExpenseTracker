@@ -2,7 +2,7 @@
 
 ## Overview
 
-ExpenseTracker is a mobile application built using SwiftUI and SwiftUICharts. The app helps users keep track of their expenses and provides a visual representation of their spending habits. This README provides an overview of the app's features, installation instructions, and usage guidelines.
+ExpenseTracker is a mobile application built using SwiftUI and SwiftUICharts. The app helps users keep track of their expenses and provides a visual representation of their spending habits.
 
 ## Features
 
