@@ -10,4 +10,10 @@ ExpenseTracker is a mobile application built using SwiftUI and SwiftUICharts. Th
 - **Interactive Charts:** Visualizes expense data with interactive line charts.
 - **Recent Transactions:** Lists the most recent transactions for easy tracking.
 - **Notification Badge:** Displays a notification icon to keep users informed of new updates.
+- **Dark Mode:** Supports dark mode for comfortable usage in low-light environments.
+
+## Screenshots
+
+  ![Screenshot 2024-07-15 at 3 52 01 PM](https://github.com/user-attachments/assets/9bdc0a90-4d5b-4c23-aeb9-52dd36254f07)
+
 
